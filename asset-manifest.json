@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pranith-portfolio/static/css/main.8392fb4c.chunk.css",
-    "main.js": "/pranith-portfolio/static/js/main.112a6a1f.chunk.js",
-    "main.js.map": "/pranith-portfolio/static/js/main.112a6a1f.chunk.js.map",
+    "main.js": "/pranith-portfolio/static/js/main.8544120c.chunk.js",
+    "main.js.map": "/pranith-portfolio/static/js/main.8544120c.chunk.js.map",
     "runtime-main.js": "/pranith-portfolio/static/js/runtime-main.5fc9216d.js",
     "runtime-main.js.map": "/pranith-portfolio/static/js/runtime-main.5fc9216d.js.map",
     "static/css/2.b06c969a.chunk.css": "/pranith-portfolio/static/css/2.b06c969a.chunk.css",
@@ -154,6 +154,6 @@
     "static/css/2.b06c969a.chunk.css",
     "static/js/2.efc0f48f.chunk.js",
     "static/css/main.8392fb4c.chunk.css",
-    "static/js/main.112a6a1f.chunk.js"
+    "static/js/main.8544120c.chunk.js"
   ]
 }
