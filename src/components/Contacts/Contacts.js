@@ -121,7 +121,7 @@ function Contacts() {
 
         if (name && email && message) {
             if (isEmail(email)) {
-                emailjs.sendForm('service_qxwd33p', 'template_rchyera', form.current, 'Xswf-fBSF_Z-h8fvU')
+                emailjs.sendForm('service_8lj31el', 'template_obzy7j5', form.current, 'D4YtnPV7XHz-0nYRB')
                     .then((result) => {
                         console.log('success');
                         setSuccess(true);
