@@ -4,14 +4,14 @@ RUN mkdir -p /usr/app/
 
 WORKDIR /usr/app/
 
-COPY package*.json .
+COPY package*.json ./
 
-RUN yarn install
+RUN npm install --force
 
 COPY ./ ./
 
-RUN yarn build
+RUN npm build
 
-EXPOSE 3000
+EXPOSE 3008
 
-CMD ["yarn", "start"]
+CMD ["npm", "start"]

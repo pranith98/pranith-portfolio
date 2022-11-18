@@ -1,7 +1,7 @@
 import four from '../assets/svg/projects/four.svg'
-import one from '../assets/svg/projects/one.svg'
-import three from '../assets/svg/projects/three.svg'
-import two from '../assets/svg/projects/two.svg'
+import one from '../assets/svg/projects/book.svg'
+import three from '../assets/svg/projects/corn.svg'
+import two from '../assets/svg/projects/coronavirus.svg'
 
 
 export const projectsData = [
