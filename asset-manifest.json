@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pranith-portfolio/static/css/main.8392fb4c.chunk.css",
-    "main.js": "/pranith-portfolio/static/js/main.8544120c.chunk.js",
-    "main.js.map": "/pranith-portfolio/static/js/main.8544120c.chunk.js.map",
+    "main.js": "/pranith-portfolio/static/js/main.a03a6320.chunk.js",
+    "main.js.map": "/pranith-portfolio/static/js/main.a03a6320.chunk.js.map",
     "runtime-main.js": "/pranith-portfolio/static/js/runtime-main.5fc9216d.js",
     "runtime-main.js.map": "/pranith-portfolio/static/js/runtime-main.5fc9216d.js.map",
     "static/css/2.b06c969a.chunk.css": "/pranith-portfolio/static/css/2.b06c969a.chunk.css",
@@ -28,6 +28,7 @@
     "static/media/blender.b96901d1.svg": "/pranith-portfolio/static/media/blender.b96901d1.svg",
     "static/media/blueTheme-boy.766e140d.svg": "/pranith-portfolio/static/media/blueTheme-boy.766e140d.svg",
     "static/media/blueTheme-girl.232e4a4f.svg": "/pranith-portfolio/static/media/blueTheme-girl.232e4a4f.svg",
+    "static/media/book.5cb118e7.svg": "/pranith-portfolio/static/media/book.5cb118e7.svg",
     "static/media/bootstrap.19a2d2ff.svg": "/pranith-portfolio/static/media/bootstrap.19a2d2ff.svg",
     "static/media/bulma.5910d441.svg": "/pranith-portfolio/static/media/bulma.5910d441.svg",
     "static/media/bwTheme-boy.fbbb191f.svg": "/pranith-portfolio/static/media/bwTheme-boy.fbbb191f.svg",
@@ -45,6 +46,8 @@
     "static/media/contactsRed.4953be02.svg": "/pranith-portfolio/static/media/contactsRed.4953be02.svg",
     "static/media/contactsTwitter.8f2a6a03.svg": "/pranith-portfolio/static/media/contactsTwitter.8f2a6a03.svg",
     "static/media/contactsYellow.85ae6023.svg": "/pranith-portfolio/static/media/contactsYellow.85ae6023.svg",
+    "static/media/corn.6f3b3e56.svg": "/pranith-portfolio/static/media/corn.6f3b3e56.svg",
+    "static/media/coronavirus.11c284c6.svg": "/pranith-portfolio/static/media/coronavirus.11c284c6.svg",
     "static/media/cplusplus.3398ef50.svg": "/pranith-portfolio/static/media/cplusplus.3398ef50.svg",
     "static/media/csharp.8f35e178.svg": "/pranith-portfolio/static/media/csharp.8f35e178.svg",
     "static/media/css.43b6f4bd.svg": "/pranith-portfolio/static/media/css.43b6f4bd.svg",
@@ -106,7 +109,6 @@
     "static/media/nginx.14c0011a.svg": "/pranith-portfolio/static/media/nginx.14c0011a.svg",
     "static/media/numpy.5bdfa40b.svg": "/pranith-portfolio/static/media/numpy.5bdfa40b.svg",
     "static/media/nuxtJS.81cb52af.svg": "/pranith-portfolio/static/media/nuxtJS.81cb52af.svg",
-    "static/media/one.a3146128.svg": "/pranith-portfolio/static/media/one.a3146128.svg",
     "static/media/opencv.0f128460.svg": "/pranith-portfolio/static/media/opencv.0f128460.svg",
     "static/media/orangeTheme-boy.0ebb8c72.svg": "/pranith-portfolio/static/media/orangeTheme-boy.0ebb8c72.svg",
     "static/media/orangeTheme-girl.d0ad58be.svg": "/pranith-portfolio/static/media/orangeTheme-girl.d0ad58be.svg",
@@ -134,10 +136,8 @@
     "static/media/swift.a030128a.svg": "/pranith-portfolio/static/media/swift.a030128a.svg",
     "static/media/tailwind.254c4865.svg": "/pranith-portfolio/static/media/tailwind.254c4865.svg",
     "static/media/tensorflow.6d6f2e37.svg": "/pranith-portfolio/static/media/tensorflow.6d6f2e37.svg",
-    "static/media/three.d4f751d1.svg": "/pranith-portfolio/static/media/three.d4f751d1.svg",
     "static/media/twitterTheme-boy.a235e843.svg": "/pranith-portfolio/static/media/twitterTheme-boy.a235e843.svg",
     "static/media/twitterTheme-girl.c3c31223.svg": "/pranith-portfolio/static/media/twitterTheme-girl.c3c31223.svg",
-    "static/media/two.721a0672.svg": "/pranith-portfolio/static/media/two.721a0672.svg",
     "static/media/typescript.31f8fee8.svg": "/pranith-portfolio/static/media/typescript.31f8fee8.svg",
     "static/media/unity.ad58069d.svg": "/pranith-portfolio/static/media/unity.ad58069d.svg",
     "static/media/vitejs.b99f0b09.svg": "/pranith-portfolio/static/media/vitejs.b99f0b09.svg",
@@ -154,6 +154,6 @@
     "static/css/2.b06c969a.chunk.css",
     "static/js/2.efc0f48f.chunk.js",
     "static/css/main.8392fb4c.chunk.css",
-    "static/js/main.8544120c.chunk.js"
+    "static/js/main.a03a6320.chunk.js"
   ]
 }
